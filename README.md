@@ -9,3 +9,14 @@
 <!--
 <img src="exemplo-image.png" alt="exemplo imagem">
 -->
+
+
+## 😄 Be one of the contributors<br>
+
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
+
+## 📝 License
+
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+[⬆ Back to top](#projeto-curso-git)<br>
