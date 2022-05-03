@@ -19,4 +19,8 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
 
 This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
 [⬆ Back to top](#projeto-curso-git)<br>
